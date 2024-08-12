@@ -1,7 +1,7 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+This project contains routes, nested routes, how to add css to pages. Image is added in public folder under images and used in css
 ## Available Scripts
 
 In the project directory, you can run:
